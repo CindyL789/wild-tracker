@@ -1,0 +1,6 @@
+{
+  "name": "Wildlife Tracker",
+  "description": "An interactive global animal tracking dashboard using public Movebank datasets and Gemini Maps Grounding AI to monitor tagged wildlife and migration patterns.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
