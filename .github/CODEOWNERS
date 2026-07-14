@@ -1,0 +1,15 @@
+# Wild Tracker CODEOWNERS
+# Reviewers for different parts of the codebase
+
+# Default owners - will be requested for review on all PRs
+* @CindyL789 @NyxSpecter4
+
+# Server and API layer
+/server.ts @CindyL789 @NyxSpecter4
+
+# Frontend components
+/src/ @CindyL789 @NyxSpecter4
+
+# Database and infrastructure
+/database/ @NyxSpecter4
+/.github/ @NyxSpecter4
